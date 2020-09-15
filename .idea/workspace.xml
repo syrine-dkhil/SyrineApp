@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="calculator:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a93d13ed-0d68-469b-8335-fc0b7460b72d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/com/example/helloworld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/src/com/example/helloworld/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/artifacts/calculator_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/artifacts/calculator_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/libraries/Maven__javax_javaee_web_api_8_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/src/main/resources/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/src/main/webapp/WEB-INF/faces-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/target/classes/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/target/classes/META-INF/persistence.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hEcfAyoymcqXa9UlX1OldxuYJy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2735632" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.374" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.374" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/calculator_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="calculator:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/calculator_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_calculator_2" />
+        <option name="HTTP_PORT" value="8081" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="36309" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="calculator:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a93d13ed-0d68-469b-8335-fc0b7460b72d" name="Default Changelist" comment="" />
+      <created>1599579795102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599579795102</updated>
+      <workItem from="1599579796597" duration="2074000" />
+      <workItem from="1599663739807" duration="712000" />
+      <workItem from="1599774149520" duration="599000" />
+      <workItem from="1599816484949" duration="2859000" />
+      <workItem from="1599820231701" duration="687000" />
+      <workItem from="1599860444969" duration="466000" />
+      <workItem from="1599860976854" duration="824000" />
+      <workItem from="1600012996033" duration="1634000" />
+      <workItem from="1600181110691" duration="2655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1172" y="380" key="#BuildArtifactsBeforeRunChooser" timestamp="1599579835439">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="1172" y="380" key="#BuildArtifactsBeforeRunChooser/65.24.1855.1056@65.24.1855.1056" timestamp="1599579835439" />
+    <state x="872" y="150" key="#Project_Structure" timestamp="1599579865723">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="872" y="150" key="#Project_Structure/65.24.1855.1056@65.24.1855.1056" timestamp="1599579865723" />
+    <state x="849" y="198" width="1071" height="882" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600013008174">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="849" y="198" width="1071" height="882" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1600013008174" />
+    <state x="1095" y="284" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1599820756920">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="1095" y="284" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/65.24.1855.1056@65.24.1855.1056" timestamp="1599820756920" />
+    <state x="141" y="355" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1599820672326">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="141" y="355" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/65.24.1855.1056@65.24.1855.1056" timestamp="1599820672326" />
+    <state x="1186" y="461" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1599820692222">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="1186" y="461" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1599820692222" />
+    <state x="1040" y="296" key="FileChooserDialogImpl" timestamp="1599820753594">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="1040" y="296" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1599820753594" />
+    <state width="608" height="279" key="GridCell.Tab.0.bottom" timestamp="1600196151192">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="608" height="279" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1600196151192" />
+    <state width="608" height="279" key="GridCell.Tab.0.center" timestamp="1600196151191">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="608" height="279" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1600196151191" />
+    <state width="608" height="279" key="GridCell.Tab.0.left" timestamp="1600196151190">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="608" height="279" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1600196151190" />
+    <state width="608" height="279" key="GridCell.Tab.0.right" timestamp="1600196151191">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="608" height="279" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1600196151191" />
+    <state width="608" height="279" key="GridCell.Tab.1.bottom" timestamp="1600196151193">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="608" height="279" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1600196151193" />
+    <state width="608" height="279" key="GridCell.Tab.1.center" timestamp="1600196151192">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="608" height="279" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1600196151192" />
+    <state width="608" height="279" key="GridCell.Tab.1.left" timestamp="1600196151192">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="608" height="279" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1600196151192" />
+    <state width="608" height="279" key="GridCell.Tab.1.right" timestamp="1600196151192">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="608" height="279" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1600196151192" />
+    <state width="608" height="279" key="GridCell.Tab.2.bottom" timestamp="1600196151193">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="608" height="279" key="GridCell.Tab.2.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1600196151193" />
+    <state width="608" height="279" key="GridCell.Tab.2.center" timestamp="1600196151193">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="608" height="279" key="GridCell.Tab.2.center/65.24.1855.1056@65.24.1855.1056" timestamp="1600196151193" />
+    <state width="608" height="279" key="GridCell.Tab.2.left" timestamp="1600196151193">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="608" height="279" key="GridCell.Tab.2.left/65.24.1855.1056@65.24.1855.1056" timestamp="1600196151193" />
+    <state width="608" height="279" key="GridCell.Tab.2.right" timestamp="1600196151193">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="608" height="279" key="GridCell.Tab.2.right/65.24.1855.1056@65.24.1855.1056" timestamp="1600196151193" />
+    <state x="896" y="130" key="SettingsEditor" timestamp="1599861079062">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="896" y="130" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1599861079062" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/calculator$Tomcat_9_0_374.ic" NAME="Tomcat 9.0.374 Coverage Results" MODIFIED="1599820804412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
